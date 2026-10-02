@@ -21,7 +21,7 @@ function Employees() {
 
   return (
     <div>
-      <h1>Employees</h1>
+      <h1>Employees Management</h1>
 
       <table border="1" cellPadding="10">
         <thead>
